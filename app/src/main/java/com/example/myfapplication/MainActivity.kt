@@ -94,7 +94,7 @@ class MainActivity : AppCompatActivity() {
                         tvInput?.text=(one.toDouble()/two.toDouble()).toString()
                     }
                 }
-
+//hello
             }catch(e:ArithmeticException){
                 e.printStackTrace()
             }
